@@ -1,0 +1,238 @@
+# IP LOGGERS
+||grabify.link^
+||grabify.icu^
+||iplogger.org^
+||blasze.com^
+||iplogger.com^
+||iplogger.info^
+||iplogger.ru^
+||iplogger.co^
+# END IP LOGGERS
+# Start Nothing of value
+||drivereasy.com^
+||softonic.com^
+||iobit.com^
+||iobit.net^
+# End Nothing of value
+# MOTD Message of the Day (HL2 Source Games) adblock
+||gameserverads.com^
+||pinion.gg^
+||pinionprizes.gg^
+||vppgamingnetwork.com^
+||motdgd.com^
+||unikrn.com^
+#ROKU, Warning creates a lot of failed dns traffic as the devices try extremely hard to be reliable
+||logs.roku.com^
+||cloudservices.roku.com^
+||ads.roku.com^
+#PINTEREST
+||ads.pinterest.com^
+#UNITY ADS
+||unityads.unity3d.com^
+#SAMSUNG
+||samsungads.com^
+||ad.nettvservices.com^
+||ads.samsung.com^
+# LG ADS
+||lgsmartad.com^
+||ad.lgappstv.com^
+#YAHOO
+||partnerads.ysm.yahoo.com^
+||ads.yahoo.com^
+||adtechus.com^
+||advertising.com^
+||analytics.yahoo.com^
+||adtech.yahooinc.com^
+||atwola.com^
+||atwola.net^
+#YAHOO NEXAGE
+||nexage.com^
+#YANDEX
+||advertising.yandex.ru^
+||ads.yandex.ru^
+#TWITTER
+||ads-api.twitter.com^
+||static.ads-twitter.com^
+||ads.twitter.com^
+#X.com ads
+||ads-api.x.com^
+||static.ads-x.com^
+||ads.x.com^
+#Linked In
+||ads.linkedin.com^
+#Roku Menu Ad During Channel Selection
+||display.ravm.tv^
+#Facebook
+||ads.facebook.com^
+||an.facebook.com^
+||pixel.facebook.com^
+#Twitch
+||ads.twitch.tv^
+||ad.twitch.tv^
+#Typosquat
+||cloudfalre.com^
+||dlscord.com^
+||youutbe.com^
+#Chinese Company Related
+||ads.oppomobile.com^
+||ad.xiaomi.com^
+||ads-sg.tiktok.com^
+||ads.tiktok.com^
+||analytics.tiktok.com^
+# Large Ad network
+||adcolony.com^
+||media.net^
+#Very large network
+||braze.com^
+||braze.eu^
+# Huge ad network, In app Ads Mclovin
+||applovin.com^
+||applvn.com^
+# Huge ad network, Google Ad mob Mobile Ads
+||admob.com^
+#Inmobi Ad Network
+||inmobi.com^
+||inmobi.net^
+#SMAATO 2005
+||smaato.net^
+||smaato.com^
+#Adform Network, Unrelated to adform.net?
+||adform.com^
+||adform.net^
+#SWRVE Network
+||swrve.com^
+#Pubmatic Ad network
+||pubmatic.com^
+||mopub.com^
+#Microsoft
+||bingads.microsoft.com^
+||adsyndication.msn.com^
+||telemetry.api.swiftkey.com^
+||ads.microsoft.com^
+#2021 Google ad Partner 
+||adpushup.com^
+#Nexus Ad network
+||adnxs.com^
+||adnxs.net^
+||appnexus.com^
+||appnexus.net^
+#SUPERSONIC AD NETWORK
+||supersonicads.com^
+#CRITEO NETWORK
+||criteo.com^
+||criteo.net^
+#SNAPCHAT ADS
+||snapads.com^
+#Bullion Yield Network
+||bullionyield.com^
+#MINDGEEK AD NETWORK
+||exoclick.com^
+||exosrv.com^
+||adtng.com^
+||adsessionserv.com^
+||realsrv.com^
+||trafficjunky.net^
+#XV AD NETWORK
+||rtbsuperhub.com^
+||rtbtracking.com^
+||rtbtraffic.com^
+#Aggressive ads
+||zeads.com^
+||webads.nl^
+||juicyads.com^
+||popads.net^
+||avocams.com^
+#HOTJAR ANALYTICS
+||hotjar.com^
+#The worst ads end up here
+||camsoda.com^
+||chaturbate.com^
+||myfreecams.com^
+||tsyndicate.com^
+||stripchat.com^
+#IMGUR
+||ads.imgur.com^
+#AMAZON RELATED
+||amazon-adsystem.com^
+||aan.amazon.com^
+||fls-na.amazon.com^
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||adtago.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+||alexametrics.com^
+||nativead.s3.amazonaws.com^
+||aax-us-iad.amazon.com^
+||mads.amazon.com^
+#GOOGLE 
+||analytics.googleapis.com^
+||video-stats.video.google.com^
+||partnerad.l.google.com^
+||ads.youtube.com^
+||pagead.l.google.com^
+||ads.google.com^
+#Creates issues with clicking ad links on google search results
+#####||googleadservices.com^
+#####||googletagservices.com^
+||google-analytics.com^
+||googleanalytics.com^
+||googlesyndication.com^
+||app-measurement.com^
+||adservice.google.com^
+#SAMBA NETWORK
+||samba.tv^
+#TABOOLA NETWORK
+||taboola.com^
+#OUTBRAIN NETWORK
+||outbrain.org^
+# New Relic
+||insights-collector.newrelic.com^
+#ADROLL NETWORK
+||adroll.com^
+#TAPJOY NETWORK
+||tapjoy.com^
+||tapjoyads.com^
+#AMPLITUDE NETWORK
+||amplitude.com^
+#ORACLE MOAT AD NETWORK
+||moatads.com^
+||moatpixel.com^
+#APPLE TELEMETRY
+||iadsdk.apple.com^
+||api-adservices.apple.com^
+#ADSRVR
+||adsrvr.org^
+#APPNEXT
+||appnext.com^
+#TRAFFICHUNT
+||traffichunt.com^
+#Playwire/Integri
+||ads.intergi.com^
+||cdn.playwire.com^
+||ads.playwire.com^
+#ADTELLIGENT
+||adtelligent.com^
+#SMARTADSERVER/EQUATIV
+||smartadserver.com^
+####MAY REQUIRE WHITELISTING dpm.demdex.net and cws.conviva.com and livepassdl.conviva.com
+||demdex.net^
+####
+||conviva.com^
+#ASSEMBLYEXCHANGE
+#SIMILAR TO ADOBE IN THAT AD NETWORKS ARE "APART" OF THEIR SPECIAL GROUP LIKE ADOBE + CONVIVA + HULU ETC
+||assemblyexchange.com^
+#INDEX EXCHANGE, APART OF ASSEMBLY EXCHANGE "GROUP"
+||indexexchange.com^
+#IMRWORLDWIDE STATISTICS
+||imrworldwide.com^
+#CF Website Analytics
+||cloudflareinsights.com^
+# Cookie Banners
+||a125375509.cdn.optimizely.com^
+||cdn.cookielaw.org^
+||cdn.indexww.com^
+#MAG SRV
+||magsrv.com^
+# Unity Ironsrc
+||logs.ironsrc.mobi^

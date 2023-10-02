@@ -1,0 +1,10 @@
+.DS_Store
+.Thumbs.db
+.bundle/
+vendor/
+.DS_Store
+.git/
+.gitattributes
+Thumbs.db
+*.log
+ehthumbs.db

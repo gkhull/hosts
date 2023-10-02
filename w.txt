@@ -1,0 +1,9 @@
+#HARDCODED ON SOME SERVICES, REFUSES TO FUNCTION WITHOUT WHITELISTING
+@@||pubads.g.doubleclick.net^
+@@||ad.doubleclick.net^
+#STREAMING whitelist
+@@||dpm.demdex.net^
+@@||cws.conviva.com^
+@@||livepassdl.conviva.com^
+@@||nbcu.demdex.net^
+@@||cbsi.demdex.net^

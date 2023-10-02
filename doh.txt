@@ -1,0 +1,18 @@
+# This provides a very basic additional layer of security, you can block the
+# hostname + old rdns entries for .4/.8 + Main DOH Domains
+# Note that this is an extremely rough method of blocking
+# and UN comprehensive way of blocking Goo/Cisco DNS
+# of Open or Google's recursive DNS, just the publicly facing service
+
+#OpenDNS
+||doh.opendns.com^
+||doh.familyshield.opendns.com^
+||resolver1.opendns.com^
+||resolver2.opendns.com^
+||resolver1-fs.opendns.com^
+||resolver2-fs.opendns.com^
+#Google
+||dns.google^
+||google-public-dns-a.google.com^
+||google-public-dns-b.google.com^
+||8888.google^

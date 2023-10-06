@@ -8,12 +8,12 @@ OPTION 2: use g.txt if you cannot whitelist for any reason
 
 The format is using Ublock's ||example.com^ style blocking rules
 
-Blacklist Link: [b.txt](https://hosts.gkhull.com/blacklist.txt)
+[Blacklist Link](https://hosts.gkhull.com/blacklist.txt)
 
-Whitelist Link: [w.txt](https://hosts.gkhull.com/whitelist.txt)
+[Whitelist Link](https://hosts.gkhull.com/whitelist.txt)
 
-Greylist Link: [g.txt](https://hosts.gkhull.com/greylist.txt)
+[Greylist Link](https://hosts.gkhull.com/greylist.txt)
 
-Annoyances Link: [g.txt](https://hosts.gkhull.com/annoyances.txt)
+[Annoyances Link](https://hosts.gkhull.com/annoyances.txt)
 
 Feel free to use <a href="https://hosts.gkhull.com/doh.txt">doh.txt</a> to block DOH domains. This won't prevent anyone from hardcoding but i've found it less common for applications to hardcode the IP instead of using the domain.

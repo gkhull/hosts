@@ -2,9 +2,9 @@
 This repository contains my personal hosts files.
 Pick an option sorted by most to least protection.
 
-OPTION 1: Use b.txt, the blacklist in conjunction with a.txt the annoyances list, and w.txt, the whitelist.
+OPTION 1: Use blacklist.txt, the blacklist in conjunction with annoyances.txt the annoyances list, and whitelist.txt, the whitelist.
 
-OPTION 2: use g.txt if you cannot whitelist for any reason
+OPTION 2: use greylist.txt if you cannot whitelist for any reason
 
 The format is using Ublock's ||example.com^ style blocking rules
 

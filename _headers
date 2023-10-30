@@ -1,8 +1,8 @@
 /* 
-    X-Robots-Tag: nositelinkssearchbox
+    X-Robots-Tag: noindex, nofollow, noarchive, nositelinkssearchbox
     X-Frame-Options: sameorigin
     X-Content-Type-Options: nosniff
     Referrer-Policy: strict-origin-when-cross-origin
-    Content-Security-Policy: default-src 'self'; script-src 'unsafe-inline' 'self' static.cloudflareinsights.com ajax.cloudflare.com; style-src 'unsafe-inline' 'self'; object-src 'none'; base-uri 'self'; connect-src 'self' cloudflareinsights.com; font-src 'self' data:; frame-src 'self'; img-src https: data:; manifest-src 'self'; media-src 'self' data:; frame-ancestors 'self'
+    Content-Security-Policy: default-src 'self'; script-src 'unsafe-inline' 'self' static.cloudflareinsights.com ajax.cloudflare.com; style-src 'unsafe-inline' 'self'; object-src 'none'; base-uri 'self'; connect-src 'self' data: cloudflareinsights.com; font-src 'self' data:; frame-src 'self'; img-src https: data: blob:; manifest-src 'self'; media-src 'self' data:; frame-ancestors 'self'
     Permissions-Policy: camera=(), geolocation=(), microphone=(), clipboard-read=(self), clipboard-write=(self)
     Cache-Control: public, max-age=2400

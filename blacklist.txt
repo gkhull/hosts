@@ -234,4 +234,8 @@
 ||magsrv.com^
 # Unity Ironsrc
 ||logs.ironsrc.mobi^
+# Cookie Banners
+||a125375509.cdn.optimizely.com^
+||cdn.cookielaw.org^
+||cdn.indexww.com^
 

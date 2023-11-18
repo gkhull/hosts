@@ -45,6 +45,7 @@
 ||adtech.yahooinc.com^
 ||atwola.com^
 ||atwola.net^
+||beap-bc.yahoo.com^
 #YAHOO NEXAGE
 ||nexage.com^
 #YANDEX
@@ -73,7 +74,7 @@
 ||cloudfalre.com^
 ||dlscord.com^
 ||youutbe.com^
-#Chinese Company Related
+#Chinese Company Related Ads
 ||ads.oppomobile.com^
 ||ad.xiaomi.com^
 ||ads-sg.tiktok.com^
@@ -228,10 +229,6 @@
 ||imrworldwide.com^
 #CF Website Analytics
 ||cloudflareinsights.com^
-# Cookie Banners
-||a125375509.cdn.optimizely.com^
-||cdn.cookielaw.org^
-||cdn.indexww.com^
 #MAG SRV
 ||magsrv.com^
 # Unity Ironsrc
@@ -240,3 +237,71 @@
 ||a125375509.cdn.optimizely.com^
 ||cdn.cookielaw.org^
 ||cdn.indexww.com^
+# Opera
+||res.adx.opera.com^
+
+# Cname Fronted Ads
+||d3dkhq0wwdwodv.cloudfront.net^
+||d3lvir7538n0oi.cloudfront.net^
+||d2uap9jskdzp2.cloudfront.net^
+||d2wzkjnj9pfptq.cloudfront.net^
+||dgu9g3a2kzqx2.cloudfront.net^
+||www.dgu9g3a2kzqx2.cloudfront.net^
+||d2a99ncvgwfx20.cloudfront.net^
+||d2dpni913sh8cs.cloudfront.net^
+||d3g9jzjodi4z8o.cloudfront.net^
+||d3ix9yg89ky1c5.cloudfront.net^
+||d3o92sis0yji3x.cloudfront.net^
+||d8k8yw18dq88h.cloudfront.net^
+||d15n68k9x054qg.cloudfront.net^
+||d24o98uf90fo7r.cloudfront.net^
+||d36nbgnuno71tn.cloudfront.net^
+||d182p0mo6pnsdg.cloudfront.net^
+||duiwcg72w56ze.cloudfront.net^
+||www.d2a99ncvgwfx20.cloudfront.net^
+||www.d2dpni913sh8cs.cloudfront.net^
+||www.d3g9jzjodi4z8o.cloudfront.net^
+||www.d3ix9yg89ky1c5.cloudfront.net^
+||www.d3o92sis0yji3x.cloudfront.net^
+||www.d8k8yw18dq88h.cloudfront.net^
+||www.d15n68k9x054qg.cloudfront.net^
+||www.d24o98uf90fo7r.cloudfront.net^
+||www.d36nbgnuno71tn.cloudfront.net^
+||www.d182p0mo6pnsdg.cloudfront.net^
+||www.duiwcg72w56ze.cloudfront.net^
+||d1zatounuylvwg.cloudfront.net^
+||d26b395fwzu5fz.cloudfront.net^
+||dc8xl0ndzn2cb.cloudfront.net #[Snowplow analytics]
+||d1v9u0bgi1uimx.cloudfront.net^
+||d169bbxks24g2u.cloudfront.net^
+# ||d2c8v52ll5s99u.cloudfront.net #[comscore][affects arstechnica/wired/vogue/vanity fair]
+||d2cgumzzqhgmdu.cloudfront.net^
+||d24n15hnbwhuhn.cloudfront.net^
+||d2tgfbvjf3q6hn.cloudfront.net^
+||dz2fz0bgyq9tn.cloudfront.net^
+||d1jikhx1ssl81z.cloudfront.net^
+||d1lxhc4jvstzrp.cloudfront.net^
+||d1xfq2052q7thw.cloudfront.net^
+||d1z2jf7jlzjs58.cloudfront.net^
+# ||d2gatte9o95jao.cloudfront.net #[affects urbandictionary.com]
+||d2zah9y47r7bi2.cloudfront.net^
+||d3qxwzhswv93jk.cloudfront.net^
+||d1fc8wv8zag5ca.cloudfront.net #[Snowplow JavaScript tracker]
+||d1l6p2sc9645hc.cloudfront.net^
+||d1piupybsgr6dr.cloudfront.net^
+# ||d3c3cq33003psk.cloudfront.net #[affects sunglassesshop.com]
+||d5nxst8fruw4z.cloudfront.net^
+||dl1d2m8ri9v3j.cloudfront.net^
+||d2vig74li2resi.cloudfront.net^
+||desv383oqqc0.cloudfront.net #[Popcorn Metrics]
+||d2o9ozfswytaqz.cloudfront.net^
+||d3v3bqdndm4erx.cloudfront.net^
+||d1miuq6afqay8u.cloudfront.net^
+||d28nwox1gdjlve.cloudfront.net^
+||d2p8taqyjofgrq.cloudfront.net^
+||d2swpuhpwp3khd.cloudfront.net^
+||dlp4luwpus5kr.cloudfront.net^
+||d1f0tbk1v3e25u.cloudfront.net^
+||d81mfvml8p5ml.cloudfront.net^
+
+

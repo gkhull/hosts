@@ -175,6 +175,8 @@
 ||ads.youtube.com^
 ||pagead.l.google.com^
 ||ads.google.com^
+# Google Analytics
+||analytics.google.com^
 #Creates issues with clicking ad links on google search results
 #####||googleadservices.com^
 #####||googletagservices.com^
@@ -306,4 +308,6 @@
 ||d1f0tbk1v3e25u.cloudfront.net^
 ||d81mfvml8p5ml.cloudfront.net^
 
+# Microsoft Clarity Mouse Tracker
+||clarity.ms^
 

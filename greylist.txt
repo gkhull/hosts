@@ -296,10 +296,8 @@
 ||www.duiwcg72w56ze.cloudfront.net^
 ||d1zatounuylvwg.cloudfront.net^
 ||d26b395fwzu5fz.cloudfront.net^
-||dc8xl0ndzn2cb.cloudfront.net #[Snowplow analytics]
 ||d1v9u0bgi1uimx.cloudfront.net^
 ||d169bbxks24g2u.cloudfront.net^
-# ||d2c8v52ll5s99u.cloudfront.net #[comscore][affects arstechnica/wired/vogue/vanity fair]
 ||d2cgumzzqhgmdu.cloudfront.net^
 ||d24n15hnbwhuhn.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
@@ -308,17 +306,15 @@
 ||d1lxhc4jvstzrp.cloudfront.net^
 ||d1xfq2052q7thw.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
-# ||d2gatte9o95jao.cloudfront.net #[affects urbandictionary.com]
 ||d2zah9y47r7bi2.cloudfront.net^
 ||d3qxwzhswv93jk.cloudfront.net^
-||d1fc8wv8zag5ca.cloudfront.net #[Snowplow JavaScript tracker]
+||d1fc8wv8zag5ca.cloudfront.net^
 ||d1l6p2sc9645hc.cloudfront.net^
 ||d1piupybsgr6dr.cloudfront.net^
-# ||d3c3cq33003psk.cloudfront.net #[affects sunglassesshop.com]
+||desv383oqqc0.cloudfront.net^
 ||d5nxst8fruw4z.cloudfront.net^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||d2vig74li2resi.cloudfront.net^
-||desv383oqqc0.cloudfront.net #[Popcorn Metrics]
 ||d2o9ozfswytaqz.cloudfront.net^
 ||d3v3bqdndm4erx.cloudfront.net^
 ||d1miuq6afqay8u.cloudfront.net^

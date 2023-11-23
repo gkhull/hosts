@@ -55,6 +55,7 @@
 ||ads-api.twitter.com^
 ||static.ads-twitter.com^
 ||ads.twitter.com^
+||ads-twitter.com^
 #X.com ads
 ||ads-api.x.com^
 ||static.ads-x.com^
@@ -110,6 +111,17 @@
 ||adsyndication.msn.com^
 ||telemetry.api.swiftkey.com^
 ||ads.microsoft.com^
+||ads.bingads.microsoft.com^
+||advertise.bingads.microsoft.com^
+||api.bingads.microsoft.com^
+||m.bingads.microsoft.com^
+||advertising.microsoft.com^
+||fp.advertising.microsoft.com^
+||analytics.live.com^
+||rad.live.com^
+||adevents.msn.com^
+||ads.msn.com^
+||analytics.msn.com^
 #2021 Google ad Partner 
 ||adpushup.com^
 #Nexus Ad network
@@ -166,6 +178,9 @@
 ||nativead.s3.amazonaws.com^
 ||aax-us-iad.amazon.com^
 ||mads.amazon.com^
+||amazon-adsystem.amazon.com^
+||device-metrics-us-2.amazon.com^
+||device-metrics-us.amazon.com^
 #DOUBLECLICK NETWORK
 ||doubleclick.net^
 #GOOGLE 
@@ -206,6 +221,15 @@
 #APPLE TELEMETRY
 ||iadsdk.apple.com^
 ||api-adservices.apple.com^
+||advertising.apple.com^
+||books-analytics-events.apple.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+||notes-analytics-events.apple.com^
+||securemetrics.apple.com^
+||stocks-analytics-events.apple.com^
+||supportmetrics.apple.com^
+||weather-analytics-events.apple.com^
 #ADSRVR
 ||adsrvr.org^
 #APPNEXT
@@ -243,7 +267,6 @@
 ||cdn.indexww.com^
 # Opera
 ||res.adx.opera.com^
-
 # Cname Fronted Ads
 ||d3dkhq0wwdwodv.cloudfront.net^
 ||d3lvir7538n0oi.cloudfront.net^
@@ -307,7 +330,9 @@
 ||dlp4luwpus5kr.cloudfront.net^
 ||d1f0tbk1v3e25u.cloudfront.net^
 ||d81mfvml8p5ml.cloudfront.net^
-
 # Microsoft Clarity Mouse Tracker
 ||clarity.ms^
-
+# adsafeprotected network
+||adsafeprotected.com^
+#Doubleverify ad network
+||doubleverify.com

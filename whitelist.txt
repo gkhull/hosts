@@ -1,0 +1,38 @@
+# One domain per line. Whitelisting example.com also allows every subdomain.
+# Also accepts ||example.com^ and @@||example.com^ forms.
+# Matching domains are removed from the combined sources before the blacklist is added.
+@@||s.youtube.com^
+@@||2ruly5ajzx7x6lyy4m5np7rfwu5yxom6lfuhrysjde96c35e1d474354sac.d.aa.online-metrix.net^$important
+@@||analytics.amwell.systems^$important
+@@||c.go-mpulse.net^$important
+@@||content.digital.citbank.com^$important
+@@||linkly.link^$important
+@@||analytics.google.com
+# doh entries
+@@||cloudflare-gateway.com^
+@@||dns.google^
+@@||dns.google.com^
+@@||google-public-dns-a.google.com^
+@@||google-public-dns-b.google.com^
+@@||8888.google^
+@@||opendns.one^
+@@||dns.opendns.com^
+@@||2.dnscrypt-cert.opendns.com^
+@@||doh.opendns.com^
+@@||familyshield.opendns.com^
+@@||resolver1.ipv6-sandbox.opendns.com^
+@@||resolver2.ipv6-sandbox.opendns.com^
+@@||resolver1.opendns.com^
+@@||resolver1-fs.opendns.com^
+@@||resolver2.opendns.com^
+@@||resolver2-fs.opendns.com^
+@@||sandbox.opendns.com^
+@@||dns.quad9.net^
+@@||dns-nosec.quad9.net^
+@@||dns10.quad9.net^
+@@||cloudflare-dns.com^
+@@||dns11.quad9.net^
+@@||dns12.quad9.net^
+@@||dns13.quad9.net^
+@@||dns9.quad9.net^
+@@||2.dnscrypt-cert.quad9.net^

@@ -1,0 +1,15 @@
+# Pages already rebuilds on every push (edits made on GitHub count).
+# This job rebuilds daily so upstream list changes reach the blocklist.
+name: Scheduled rebuild
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Cloudflare Pages deploy hook
+        run: curl -fsS -X POST "${{ secrets.CF_PAGES_DEPLOY_HOOK }}"

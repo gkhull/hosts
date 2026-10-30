@@ -1,0 +1,33 @@
+# One domain per line. Each entry is added to the final list as ||domain^ (blocks subdomains too).
+# Also accepts hosts-format lines and ||domain^ forms.
+# Added after the whitelist is applied, so a domain in both files stays blocked (a warning is logged).
+# IP LOGGERS
+||grabify.link^
+||grabify.icu^
+||iplogger.org^
+||blasze.com^
+||iplogger.com^
+||iplogger.info^
+||iplogger.ru^
+||iplogger.co^
+# END IP LOGGERS
+# Start Nothing of value
+||drivereasy.com^
+||softonic.com^
+||iobit.com^
+||iobit.net^
+# End Nothing of value
+# MOTD Message of the Day (HL2 Source Games) adblock
+||gameserverads.com^
+||vppgamingnetwork.com^
+# Redirects to vppgamingnetwork
+||motdgd.com^ 
+#||pinion.gg^ #acquired by gambling companies
+#||pinionprizes.gg^ #acquired by gambling companies
+#||unikrn.com^ #acquired by gambling companies
+#Typosquat
+||cloudfalre.com^
+||dlscord.com^
+||youutbe.com^
+||youutbe.com^
+||chaturbate.com^

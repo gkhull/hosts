@@ -1,0 +1,14 @@
+{
+  "name": "blocklist-builder",
+  "version": "1.0.0",
+  "description": "Combines DNS/adblock sources into one AdGuard / uBlock Origin blocklist, with whitelist and blacklist overrides. No runtime dependencies.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.17"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  }
+}

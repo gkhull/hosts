@@ -1,6 +1,6 @@
 # blocklist-builder
 
-Combines the lists in `sources.txt` into one AdGuard / uBlock Origin blocklist, removes whitelisted domains, adds blacklisted domains, and writes `dist/blacklist.txt`. No runtime dependencies.
+Combines the lists in `sources.txt` into one AdGuard / uBlock Origin blocklist, removes whitelisted domains, adds blacklisted domains, and writes `dist/blacklist.txt`. No runtime dependencies. Hosted on GitHub Pages at `https://hosts.gkhull.com/blacklist.txt`.
 
 ## Files
 
@@ -10,6 +10,7 @@ Combines the lists in `sources.txt` into one AdGuard / uBlock Origin blocklist, 
 | `whitelist.txt` | Domains to remove (and their subdomains) |
 | `blacklist.txt` | Domains to add as `||domain^` |
 | `scripts/build.mjs` | The builder |
+| `.github/workflows/github-pages.yml` | Builds and deploys to GitHub Pages |
 
 Each source is saved to `temp/` (`01.txt`, `02.txt`, ...) with `temp/manifest.txt` mapping them to URLs.
 
@@ -22,32 +23,17 @@ npm run build
 
 Requires Node 18.17 or newer.
 
-## Cloudflare Pages setup
+## GitHub Pages setup
 
-1. Push this repo to GitHub.
-2. In Cloudflare, go to Workers & Pages, create a Pages project, and connect the repo.
-3. Build settings: build command `npm run build`, output directory `dist`.
-4. Environment variable: `NODE_VERSION` = `22`.
-5. Subscribe in uBlock Origin or AdGuard to `https://<project>.pages.dev/blacklist.txt`.
+1. In the repo, go to **Settings > Pages** and set **Source** to **GitHub Actions**.
+2. Under **Custom domain**, enter `hosts.gkhull.com` and save. The workflow also writes this into `dist/CNAME`.
+3. At your DNS provider, add a CNAME record: name `hosts`, target `<your-github-username>.github.io`.
+4. Once the domain check passes, enable **Enforce HTTPS**.
+5. Subscribe in uBlock Origin or AdGuard to `https://hosts.gkhull.com/blacklist.txt`.
 
-Pages rebuilds on every push, so edits made on GitHub's website also trigger a rebuild.
+The workflow runs on every push to `main` and once a day at 05:17 UTC, so upstream list changes reach you. You can also run it from the **Actions** tab with **Run workflow**.
 
-### Daily rebuild for upstream changes
-
-1. In the Pages project, go to Settings > Builds > Deploy hooks and create a hook.
-2. In the GitHub repo, add a secret named `CF_PAGES_DEPLOY_HOOK` with the hook URL.
-
-`.github/workflows/scheduled-rebuild.yml` then triggers a build every day.
-
-### Keeping the input files elsewhere
-
-Set any of these as Pages environment variables to use a URL instead of the local file:
-
-- `SOURCES_URL`, for example a raw GitHub URL to another `sources.txt`
-- `WHITELIST_URL`
-- `BLACKLIST_URL`
-
-Optional: `BLOCKLIST_TITLE` sets the title in the header of the output file.
+Remove the old Cloudflare Pages project (or its custom domain) so `hosts.gkhull.com` points only at GitHub.
 
 ## Matching rules
 

@@ -1,27 +1,10 @@
-# One list URL per line. Lines starting with # or ! are ignored.
-# Accepts hosts files, plain domain lists, and adblock (||domain^) lists.
-
-#Hagezi popup
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/popupads.txt
-
-
-
-#Hagezi DOH
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh.txt
-
-#Hagezi fake
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt
-
-#Oisd
 https://big.oisd.nl
-
-
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.extended.txt
-
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffice.txt
-
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.apple.txt
-
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.amazon.txt
 
 

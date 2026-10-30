@@ -36,3 +36,5 @@
 @@||dns13.quad9.net^
 @@||dns9.quad9.net^
 @@||2.dnscrypt-cert.quad9.net^
+
+#@@||test-domain102102510258.xyz^

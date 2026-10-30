@@ -1,6 +1,5 @@
 # One list URL per line. Lines starting with # or ! are ignored.
 # Accepts hosts files, plain domain lists, and adblock (||domain^) lists.
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 
 #Hagezi popup
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/popupads.txt

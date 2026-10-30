@@ -4,8 +4,7 @@
 #Hagezi popup
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/popupads.txt
 
-# Hagezi TIF
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
+
 
 #Hagezi DOH
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh.txt
